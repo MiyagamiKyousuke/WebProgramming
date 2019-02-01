@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.sample_head{
+	background-color: #000000;
+}
+.update_btn input{
+	height: 40px;
+	width: 180px;
+}

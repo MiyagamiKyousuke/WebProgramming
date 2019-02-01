@@ -1,0 +1,32 @@
+@charset "UTF-8";
+.sample_head{
+	background-color: #000000;
+}
+.hd{
+	margin-top: 30px;
+}
+.btn1 a{
+	width: 50px;
+	height: 30px;
+	display:inline-block;
+	text-align: center;
+	border-radius: 4px;
+}
+.btn2 a{
+	width: 50px;
+	height: 30px;
+	display:inline-block;
+	text-align: center;
+	border-radius: 4px;
+}
+.btn3 a{
+	width: 50px;
+	height: 30px;
+	display:inline-block;
+	text-align: center;
+	border-radius: 4px;
+}
+.user_new{
+
+	text-align: right;
+}
